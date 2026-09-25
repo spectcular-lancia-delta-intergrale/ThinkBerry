@@ -1,0 +1,15 @@
+Item and costs listed below:
+1. Raspberry Pi 4 Model B (4GB) - £96.00 (Direct from PiHut)
+2. Filament (For 3D printing) - N/A provided free of charge by my school
+3. Screen (4.3 in DSI Capacitive Screen) - £34.60 (Direct from PiHut)
+4. Button/Sliders - Roughly £10
+5. 2000mAH Battery - £10 (Direct from PiHut)
+
+
+Also: Miscellaneous (i.e. paint, screws, washers, bolts, etc) = £10.00
+The grand total is - £160.60
+
+Why does this cost so much?
+The cheaper, lower end Raspberry Pi do not have the ram/processing capacity to run the required online textbook software and 
+the screen is of a high quality, which is essential as this device is being designed to LAST! Also, both of these major components are being sourced from a reputable retailer,
+to ensure that the products are as described and can be returned if they do not function as intended. (Adding to this, components like the battery are risky to purchase from sites like ali-express)
