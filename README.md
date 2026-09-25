@@ -1,6 +1,6 @@
 # ThinkBerry
 
-<img src="https://cdn.hackclub.com/01a0d9fe-f9db-7939-a39e-741e340b8377/Screenshot-202026-09-25-2020.15.44.png" alt="ThinkBerry"/><img width="1068" height="586" alt="image" src="https://github.com/user-attachments/assets/9ba77381-5d05-4677-8c9e-fd1da7b459b7" />
+<img src="https://cdn.hackclub.com/01a0d9fe-f9db-7939-a39e-741e340b8377/Screenshot-202026-09-25-2020.15.44.png" alt="ThinkBerry"/><img width="1068" height="586" alt="image" />
 
 
 A project to solve my niche problem of accessing my online textbooks!
