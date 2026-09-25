@@ -9,3 +9,8 @@ Currently, when I need to access my online textbooks I have to open them on my l
 So as a solution to this niche problem, I began experimenting with the idea of having a small foot print raspberry pi based computer to display my questions, freeing up my desk space for me to write and eliminating the potential distractions which are present when having a laptop in front of me. 
 
 This is when the ThinkBerry was born!
+
+I began modelling the outer-casing (file is attached if you would like to view) and started researching the best possible parts to make the idea come to life. 
+From a cost POV, the pi 4 and made sense. Thus, the shell was designed to fit the pi 4!
+
+This is where the project stops though... The price is too high, even with the potential for free 3D printing at my school, I cannot afford the £180 pounds to buy and shift everything I need to make the project come to life. 
