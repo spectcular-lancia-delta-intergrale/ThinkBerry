@@ -1,15 +1,22 @@
 Item and costs listed below:
-1. Raspberry Pi 4 Model B (4GB) - £96.00 (Direct from PiHut)
+1. Raspberry Pi 4 Model B (4GB) - £96.00 (Direct from PiHut, https://thepihut.com/products/raspberry-pi-4-model-b)
 2. Filament (For 3D printing) - N/A provided free of charge by my school
-3. Screen (8in Touch Screen) - £71.10 (Direct from PiHut)
-4. Button/Sliders - Roughly £10
-5. 2000mAH Battery - £10 (Direct from PiHut)
-
+3. Screen (3.5in Touch Screen) - $32.99 (https://www.waveshare.com/3.5inch-dsi-lcd-e.htm?srsltid=AU7gw4UjL3riS9Re1_qvkz_9DTQZA8oyPoy5-a2DZdiOjPNv6yiE5o6cKAE)
+4. Button/Sliders/Wires/Fans (cooling) - Roughly £15 (Trying to find cheaper parts)
+- https://thepihut.com/products/adafruit-mcp3008-8-channel-10-bit-adc-with-spi-interface
+- https://thepihut.com/products/slide-potentiometer-with-plastic-knob-45mm-long (Two of these required)
+- https://thepihut.com/products/mini-soft-touch-push-button-switches-6mm-square-x-10-pack
+- https://thepihut.com/products/spst-on-off-latching-miniature-toggle-switch
+- https://thepihut.com/products/premium-female-female-jumper-wires-20-x-3-75mm
+- https://thepihut.com/products/cooling-kit-for-raspberry-pi-4
+5. Power Supply - £7.22 (Direct from PiHut, https://thepihut.com/products/raspberry-pi-psu-uk?srsltid=AU7gw4WYEWbQeCiMPVUFjiplpnZRp5wEIrfDDCeO0stIDgRT4RsSUqF0)
 
 Also: Miscellaneous (i.e. paint, screws, washers, bolts, etc) = £10.00
-The grand total is - £176.10 (exc delivery charges of around £10 - 15)
+The grand total is - £168.22 (exc delivery charges of around £10 - 15)
 
 Why does this cost so much?
 The cheaper, lower end Raspberry Pi do not have the ram/processing capacity to run the required online textbook software and 
 the screen is of a high quality, which is essential as this device is being designed to LAST! Also, both of these major components are being sourced from a reputable retailer,
 to ensure that the products are as described and can be returned if they do not function as intended. (Adding to this, components like the battery are risky to purchase from sites like ali-express)
+
+Also, I am trying to purchase bundle deals to save me having to purchase items individually (i.e. like the screen coming with the ribbon cables i need) and I am trying to save o n shipping by buying from the same supplier (i.e. PiHut) and attempting to collaborate with my school to use existing unused parts. 
